@@ -4,7 +4,7 @@
 *{
 	margin: 0;
 	padding: 0;
-	font-family: 'Lexend', sans-serif;
+	font-family: 'JeffScript', cursive;
 
 }
 
@@ -15,7 +15,7 @@ body {
 
 a {
 	text-decoration: none;
-	color: black;
+	color: #040e2b;
 }
 
 .header{
@@ -37,7 +37,7 @@ nav img{
 
 .nav-links{
 	flex: 1;
-	text-align: right;
+	text-align: centre;
 }
 
 .nav-links ul li{
@@ -48,7 +48,7 @@ nav img{
 }
 
 .nav-links ul li a{
-	color: black;
+	color: #040e2b;
 	text-decoration: none;
 	font-size: 16px;
 }
